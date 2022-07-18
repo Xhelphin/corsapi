@@ -35,7 +35,7 @@ const int apulse7[8] = {0,0,0,1, 1,0,0,0};
 const int apulse8[8] = {0,0,0,0, 0,0,0,0};
 
 // Define global variables
-int currentFunction = 12;
+int currentFunction = 13;
 int pastFunction = -1;
 int brightness = 255;
 int currentFrame = 0;
